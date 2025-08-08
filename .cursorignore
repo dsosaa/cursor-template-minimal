@@ -10,3 +10,4 @@ coverage
 *.tmp
 .env
 .env.*
+# Keep docs available for AI context - don't ignore docs/
