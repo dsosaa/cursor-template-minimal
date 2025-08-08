@@ -1,0 +1,8 @@
+# Project rules for Cursor AI
+- Prefer minimal, scoped edits; preserve working code and readability.
+- Use clear naming, modern syntax; organize imports; format on save.
+- Ask 1–2 clarifying questions when requirements are vague; then proceed with sensible defaults.
+- After substantive edits, include a short, high-signal summary of what changed and why.
+- Do not modify lockfiles or generated artifacts unless explicitly requested.
+- Do not change files listed in `.cursorignore` unless explicitly asked.
+- Keep explanations concise; explain "why" for non-obvious choices.

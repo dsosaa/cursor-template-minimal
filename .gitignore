@@ -1,0 +1,10 @@
+# Generic ignores
+.DS_Store
+.env
+.env.*
+node_modules
+dist
+build
+.cache
+coverage
+*.log
