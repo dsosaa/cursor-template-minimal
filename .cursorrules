@@ -1,6 +1,7 @@
 # Project Rules for Cursor AI
 
 ## Core Principles
+
 - Prefer minimal, scoped edits; preserve working code and readability
 - Use clear naming, modern syntax; organize imports; format on save
 - Ask 1–2 clarifying questions when requirements are vague; then proceed with sensible defaults
@@ -8,23 +9,27 @@
 - Keep explanations concise; explain "why" for non-obvious choices
 
 ## File Management
+
 - Do not modify lockfiles or generated artifacts unless explicitly requested
 - Do not change files listed in `.cursorignore` unless explicitly asked
 - Preserve existing code structure and patterns when making additions
 
 ## Documentation Integration
+
 - Reference project docs using @docs/filename.md to understand context
 - Update relevant documentation when making significant changes
 - Use @docs/tasks.md to understand current priorities and context
 - Follow patterns established in @docs/architecture.md for consistency
 
 ## Code Quality
+
 - Write self-documenting code with clear variable and function names
 - Add comments only where non-obvious; explain "why," not "how"
 - Follow established project patterns and conventions
 - Ensure changes maintain or improve code readability
 
 ## Testing & Validation
+
 - Suggest tests for non-trivial logic changes
 - Validate changes align with project goals in @docs/project-overview.md
 - Consider impact on existing functionality before making changes

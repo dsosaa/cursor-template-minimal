@@ -1,36 +1,18 @@
-# Task Backlog
+# Tasks
 
-> **Template:** Track project tasks and progress
+## Current Focus
+**Goal:** [Current objective]
 
-## Current Sprint/Focus
-**Goal:** [Current main objective]
-**Deadline:** [Target date]
+## In Progress
+- [ ] [Task] - [Assignee]
 
-### In Progress
-- [ ] [Task description] - [Assignee] - [Due date]
-
-### Next Up
-- [ ] [Task description] - [Priority: High/Medium/Low]
-- [ ] [Task description] - [Priority: High/Medium/Low]
+## Next Up
+- [ ] [Task] - [Priority]
+- [ ] [Task] - [Priority]
 
 ## Backlog
-### Features
-- [ ] [Feature description]
-- [ ] [Feature description]
-
-### Technical Debt
-- [ ] [Refactoring task]
-- [ ] [Performance improvement]
-
-### Bugs
-- [ ] [Bug description] - [Severity]
+- [ ] [Feature/Bug/Improvement]
+- [ ] [Feature/Bug/Improvement]
 
 ## Completed
-- [x] [Completed task] - [Completion date]
-- [x] [Completed task] - [Completion date]
-
-## Blocked
-- [ ] [Blocked task] - [Blocking reason] - [Resolution needed]
-
----
-*This document provides task context for AI assistants when implementing features.*
+- [x] [Task] - [Date]
